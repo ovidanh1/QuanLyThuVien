@@ -14,6 +14,10 @@ namespace QuanLyThuVien
         public Form1()
         {
             InitializeComponent();
+            
+        }
+        void abc()
+        {
         }
     }
 }
