@@ -18,7 +18,8 @@ namespace QuanLyThuVien
         }
         void abc()
         {
-            //sua ham abc
+            //sua ham abc 
+	    //sua tren nhanh
         }
     }
 }
